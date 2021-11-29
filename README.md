@@ -1,2 +1,2 @@
 # PythonHW0
-First HW of CIS 192 Python
+A walkthrough of some Python Basics
