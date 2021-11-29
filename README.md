@@ -1,2 +1,2 @@
-# PythonHW0
+# Python Basics
 A walkthrough of some Python Basics
